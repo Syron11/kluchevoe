@@ -74,7 +74,7 @@ a {
 
 /* ⬇️ Остальной стиль */
 .hero {
-    background: url('/img/klyuchevoe_bck.JPG') 50% 30%/cover no-repeat;
+    background: url('img/klyuchevoe_bck.JPG') 50% 30%/cover no-repeat;
     color: white;
     text-align: center;
     text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
