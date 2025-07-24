@@ -116,8 +116,8 @@ const translations = {
         kz: "Ауыл шаруашылық алқаптары"
     },
     "stat-cattle": {
-        ru: "500+",
-        kz: "500+"
+        ru: "1500",
+        kz: "1500"
     },
     "stat-cattle-text": {
         ru: "Голов племенного КРС",
