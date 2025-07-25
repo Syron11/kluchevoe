@@ -117,7 +117,7 @@ a {
 
 /* ⬇️ Остальной стиль */
 .hero {
-    background: url('../img/fon_hero.jpg') 50% 60%/cover no-repeat;
+    background: url('../img/bck_klyuchevoe.JPG') 50% 30%/cover no-repeat;
     color: white;
     text-align: center;
     text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
