@@ -183,7 +183,7 @@ const translations = {
         ru: "1 414 га",
         kz: "1 414 га"
     },
-    "stat-hayfield-text": {
+    "stat-hay-text": {
         ru: "Сенокосы",
         kz: "Шабындық"
     },
