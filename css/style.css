@@ -16,7 +16,6 @@ a {
     padding: 0 20px;
 }
 
-/* ⬇️ Новая панель */
 .navbar {
     background: white;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -92,7 +91,7 @@ a {
     color: #2c5f2d;
 }
 
-/* Адаптив для панели */
+
 @media (max-width: 768px) {
     .navbar-inner {
         grid-template-columns: 1fr;
@@ -115,7 +114,7 @@ a {
     }
 }
 
-/* ⬇️ Остальной стиль */
+
 .hero {
     background: url('../img/klyuchevoe_bck.JPG') 50% 30%/cover no-repeat;
     color: white;
@@ -139,14 +138,12 @@ a {
 
 .photo-card {
     width: 500px;
-    /* было 300px — теперь шире */
     text-align: center;
 }
 
 .photo-card img {
     width: 100%;
     height: 300px;
-    /* выше, но не квадрат */
     object-fit: cover;
     border-radius: 10px;
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
@@ -236,3 +233,4 @@ a {
 .language-switch button:hover {
     background: #244c22;
 }
+
